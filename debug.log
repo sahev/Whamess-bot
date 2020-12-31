@@ -1,0 +1,7 @@
+[1230/003155.022:ERROR:process_info.cc(329)] VirtualQueryEx: Acesso negado. (0x5)
+[1230/003155.024:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[1230/003155.024:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Tentou-se acessar um processo de saída. (0xc000010a)
+[1230/011142.518:ERROR:process_info.cc(329)] VirtualQueryEx: Acesso negado. (0x5)
+[1230/011142.519:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[1230/011142.519:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Tentou-se acessar um processo de saída. (0xc000010a)
+[1231/010119.418:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)

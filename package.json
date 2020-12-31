@@ -1,0 +1,10 @@
+{
+	"name": "whamess-bot",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"dependencies": {
+		"venom": "^0.1.0",
+		"venom-bot": "^2.2.3"
+	}
+}
